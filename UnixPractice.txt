@@ -1,0 +1,19 @@
+what will the following Unix commmands do?
+
+
+Assume home directory pwd is
+/linux/home
+
+cd ~
+mkdir Sun
+cd Sun
+mkdir Moon
+mkdir Earth
+cd Moon
+touch human
+touch alien
+cd ..
+mv /linux/home/Sun/Moon/human Earth
+cd Earth
+
+What will pwd print?
