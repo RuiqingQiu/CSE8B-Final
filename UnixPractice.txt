@@ -15,5 +15,10 @@ touch alien
 cd ..
 mv /linux/home/Sun/Moon/human Earth
 cd Earth
+touch women
+cp women girls
+mkdir land
+cd land
+mv ../girls .
 
 What will pwd print?
