@@ -1,8 +1,13 @@
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
+//add three lines that is necessary for running the program
+//
+//
 
-public class AppletPractice extends JApplet implements ActionListener
+
+//File name AppletPractice.java sub class of JApplet 
+
+//Draw the graph after the program ran properly and what would happen if line 23 is deleted?
+
+public class __________ extends ________ implements __________
 {
 	int count;
 	JLabel title;
